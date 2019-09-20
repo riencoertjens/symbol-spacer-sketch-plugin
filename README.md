@@ -6,7 +6,7 @@ Automatically resizes symbol to original size when switching from one spacing to
 
 ## Blog post
 How we use this plugin in combination with AnimApp: 
-https://novemberfive.co/blog/animapp-sketch-spacings/
+https://novemberfive.co/blog/animaapp-sketch-spacings/
 
 ## Functionality
 When you change a symbol that starts with the string `@spacing` (default) and deselect, our plugin will automatically trigger Sketch’s “reset to original size” function. The symbol will be updated, and its size will be updated to the new symbol’s original size.
